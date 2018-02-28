@@ -1,0 +1,46 @@
+
+#container a { -moz-transition: color 0.3s ease-in; -webkit-transition: color 0.3s ease; -o-transition: color 0.3s ease; }
+
+#container a:link { color: red; behavior: url(/script/blur.htc); text-decoration: none; }
+
+#container a:visited { color: red; text-decoration: none; }
+
+#container2 a { -moz-transition: color 0.3s ease-in; -webkit-transition: color 0.3s ease; -o-transition: color 0.3s ease; }
+
+#container2 a:link { color: red; behavior: url(/script/blur.htc); text-decoration: none; }
+
+#container2 a:visited { color: red; text-decoration: none; }
+.left { float: left; }
+.mhc_title_link { float: left; font-size: 14px; font-weight: bold; color: #6d0000 !important; }
+.mhc_title { height: 30px; font-family: "微软雅黑" , "宋体"; }
+.mhc_title span { float: left; margin-left: 1px; display: inline; }
+.add_ct { font-size: 12px; color: #666; height: 23px; }
+.hotel_fen { float: left; margin: 3px 6px 0 0; width: 58px; height: 10px; overflow: hidden; background: #E0E0E0; -margin-top: 1px; }
+.hotel_fen_lv { float: left; height: 10px; overflow: hidden; background: #5DA340; }
+.hotel_fen_bg { float: left; width: 58px; height: 10px; overflow: hidden; background: url(http://s1.static.hotel.kximg.cn/e2012071302/images/bg8.gif) no-repeat; top: -10px; position: relative; }
+.ul_change_test_div { height: 26px; background: url(http://s2.static.hotel.kximg.cn/e2012071302/images/map/search/qh_bg.gif) left bottom repeat-x; padding-left: 10px; width: 300px; }
+#ul_change_test { }
+#ul_change_test li { float: left; line-height: 25px; height: 25px; overflow: hidden; line-height: 28px\9; padding: 0px 10px; color: #026cc6; cursor: pointer; font-family: "微软雅黑" , "宋体"; font-size: 12px; }
+#ul_change_test li.li_actives { border: 1px solid #ccc; border-bottom: 0; background: #FFF; line-height: 23px; line-height: 26px\9; color: #333; }
+#ul_change_test li:hover {color: #6d0000 !important;}
+
+#ul_change_test_beijing { }
+#ul_change_test_beijing li { float: left; line-height: 25px; height: 25px; overflow: hidden; line-height: 28px\9; padding: 0px 10px; color: #026cc6; cursor: pointer; font-family: "微软雅黑" , "宋体"; font-size: 12px; }
+#ul_change_test_beijing li.li_actives { border: 1px solid #ccc; border-bottom: 0; background: #FFF; line-height: 23px; line-height: 26px\9; color: #333; }
+
+#ul_change_test_guangzhou { }
+#ul_change_test_guangzhou li { float: left; line-height: 25px; height: 25px; overflow: hidden; line-height: 28px\9; padding: 0px 10px; color: #026cc6; cursor: pointer; font-family: "微软雅黑" , "宋体"; font-size: 12px; }
+#ul_change_test_guangzhou li.li_actives { border: 1px solid #ccc; border-bottom: 0; background: #FFF; line-height: 23px; line-height: 26px\9; color: #333; }
+
+.qh_cont { padding: 10px 0 10px 24px; height: 50px; }
+.qh_inputs { border: 1px solid #7f9db9; width: 142px; height: 24px; line-height: 24px; font-size: 12px; padding: 1px; float: left; }
+
+.sp_pd { padding: 3px 6px 0 0; display: inline-block; font-family: "微软雅黑" , "宋体"; font-size: 12px; }
+.add_ct_2 { padding: 5px 0 0 72px; }
+
+.Fl_search_btn { background: url("http://map.baidu.com/image/iw_bg.png") no-repeat scroll 0 -87px transparent; border: 0 none; cursor: pointer; height: 26px; line-height: 26px; padding: 0; vertical-align: middle; width: 48px; font-family: "微软雅黑" , "宋体"; font-size: 12px; }
+.Fl_ul_list { padding: 3px 0px 10px 8px; font-family: "微软雅黑" , "宋体"; font-size: 12px; }
+.Fl_ul_list a { padding-right: 15px; color: #333 !important; }
+.Fl_ul_list a:hover {color: #6d0000 !important;}
+.Fl_ul_list li { color: #666; line-height: 22px; margin-top: 5px; }
+.Fl_search { color: #666666; margin: 0px 1px; border-top: 1px solid #e3e3e3; overflow: hidden; height: 100%; padding: 10px; }
